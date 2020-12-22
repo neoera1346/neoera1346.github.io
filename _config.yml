@@ -15,10 +15,10 @@ ga_analytics:
 
 # Author
 author:
-  name: 'Daniel Bennett'
+  name: 'Geon Ha Lee'
   image: 'authorimage.jpg'
-  greetings: 'Hi there!'
-  description: "My name is Daniel Bennett. I'm a freelance front-end developer, author and speaker based in Austin, TX. It’s nice to meet you."
+  greetings: 'Dev Gona's Playground!'
+  description: "My name is Geon Ha Lee. I'm a freelance front-end developer, author and speaker based in Austin, TX. It’s nice to meet you."
   bio: 'Daniel is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.'
 
 # Contact form setings
